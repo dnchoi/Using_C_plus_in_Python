@@ -1,3 +1,0 @@
-/home/luke/Documents/try_code/face-recognition-pytorch-lightning/simple_python_c++/build/CMakeFiles/simple.dir
-/home/luke/Documents/try_code/face-recognition-pytorch-lightning/simple_python_c++/build/CMakeFiles/edit_cache.dir
-/home/luke/Documents/try_code/face-recognition-pytorch-lightning/simple_python_c++/build/CMakeFiles/rebuild_cache.dir
